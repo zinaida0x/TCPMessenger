@@ -17,5 +17,5 @@ cd TCPMessenger
 pip install -r requirements.txt
 python3 TCPMessenger.py
 
-![Screenshot at 2024-09-28 05-59-19](https://github.com/user-attachments/assets/33a88199-91ff-41f9-881e-0208f916315d)
+<img src="https://github.com/user-attachments/assets/33a88199-91ff-41f9-881e-0208f916315d">
 
